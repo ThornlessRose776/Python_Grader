@@ -1,5 +1,6 @@
 # Python_Grader
 This class will take a folder of python functions and run those functions with inputs given from the user in a text file.
+Will output a text file with each line containing the name of the file, and the grade it recieved.
 Can only grade one function at a time so won't run other functions in the file if there are other (since it uses the name of the function to run it)
 Inputs for the class are handled in the UI.py file.
 Four parameters need to be entered for the progrsm to work properly.
